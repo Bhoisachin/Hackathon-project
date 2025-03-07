@@ -1,0 +1,15 @@
+streamlit
+pytesseract
+Pillow
+numpy
+opencv-python
+pdf2image
+pypdf2
+python-docx
+python-pptx
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+google-generativeai
+python-dotenv
